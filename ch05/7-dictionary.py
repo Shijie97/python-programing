@@ -17,3 +17,6 @@ print(dic)
 
 dic = dict(a = 4, b = 6)
 print(dic) # {'a': 4, 'b': 6}
+
+# get方法
+print(dic.get('a', 0)) # 4 返回key 'a' 对应的value，如果没有返回默认值0

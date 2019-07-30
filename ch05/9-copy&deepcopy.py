@@ -1,6 +1,7 @@
 # !user/bin/python
 # -*- coding: UTF-8 -*-
 import copy
+import numpy as np
 
 # deepcopy，方法一copy.deepcopy
 lst1 = [1, 2, 3]

@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69f94478-a810-4157-8b2a-a8be1cfd14b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../NumpyPrograming/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumpyPrograming/ch05/1-copy&amp;view(1).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumpyPrograming/ch05/2-copy&amp;view(2).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumpyPrograming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumpyPrograming/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PyPrograming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyPrograming.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumpyPrograming/ch07/3-someQuestion(1).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumpyPrograming/ch07/4-someQuestion(2).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumpyPrograming/ch07/1-Inout&amp;Output.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NumpyPrograming/ch07/1-Inout&amp;Output.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ch05/9-copy&amp;deepcopy.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch05/9-copy&amp;deepcopy.py" afterDir="false" />
     </list>
@@ -23,12 +19,15 @@
     <SUITE FILE_PATH="coverage/PyPrograming$importtt.coverage" NAME="importtt Coverage Results" MODIFIED="1563549913141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch06" />
     <SUITE FILE_PATH="coverage/PyPrograming$tuple.coverage" NAME="tuple Coverage Results" MODIFIED="1563418355389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch05" />
     <SUITE FILE_PATH="coverage/PyPrograming$1_fib.coverage" NAME="1-fib Coverage Results" MODIFIED="1563525654958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch06" />
+    <SUITE FILE_PATH="coverage/PyPrograming$2_matrix_2_.coverage" NAME="2-matrix(2) Coverage Results" MODIFIED="1564366231024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../NumpyPrograming/ch06" />
     <SUITE FILE_PATH="coverage/PyPrograming$range.coverage" NAME="range Coverage Results" MODIFIED="1563356983010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04" />
     <SUITE FILE_PATH="coverage/PyPrograming$1_output.coverage" NAME="1-output Coverage Results" MODIFIED="1563757812248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/input&amp;output" />
+    <SUITE FILE_PATH="coverage/PyPrograming$1_Inout_Output.coverage" NAME="1-Inout&amp;Output Coverage Results" MODIFIED="1564447590135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../NumpyPrograming/ch07" />
     <SUITE FILE_PATH="coverage/PyPrograming$while_pass.coverage" NAME="while&amp;pass Coverage Results" MODIFIED="1563359225090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04" />
     <SUITE FILE_PATH="coverage/PyPrograming$2_list_2_.coverage" NAME="2-list(2) Coverage Results" MODIFIED="1563413707833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch05" />
     <SUITE FILE_PATH="coverage/PyPrograming$1_copy_view_1_.coverage" NAME="1-copy&amp;view(1) Coverage Results" MODIFIED="1564363486852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../NumpyPrograming/ch05" />
     <SUITE FILE_PATH="coverage/PyPrograming$2_for.coverage" NAME="2-for Coverage Results" MODIFIED="1564362650623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04" />
+    <SUITE FILE_PATH="coverage/PyPrograming$2_matplotlib.coverage" NAME="2-matplotlib Coverage Results" MODIFIED="1564447525774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../NumpyPrograming/ch07" />
     <SUITE FILE_PATH="coverage/PyPrograming$2_import.coverage" NAME="2-import Coverage Results" MODIFIED="1563530785633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch06" />
     <SUITE FILE_PATH="coverage/PyPrograming$if.coverage" NAME="if Coverage Results" MODIFIED="1563357700704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04" />
     <SUITE FILE_PATH="coverage/PyPrograming$2_class.coverage" NAME="2-class Coverage Results" MODIFIED="1563764314174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch09" />
@@ -46,6 +45,7 @@
     <SUITE FILE_PATH="coverage/PyPrograming$6_function.coverage" NAME="6-function Coverage Results" MODIFIED="1563359924517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04" />
     <SUITE FILE_PATH="coverage/PyPrograming$1_list.coverage" NAME="1-list Coverage Results" MODIFIED="1563413364204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch05" />
     <SUITE FILE_PATH="coverage/PyPrograming$3_list_3_.coverage" NAME="3-list(3) Coverage Results" MODIFIED="1563416600012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch05" />
+    <SUITE FILE_PATH="coverage/PyPrograming$4_someQuestion_2_.coverage" NAME="4-someQuestion(2) Coverage Results" MODIFIED="1564451520103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../NumpyPrograming/ch07" />
     <SUITE FILE_PATH="coverage/PyPrograming$9_function_4_.coverage" NAME="9-function(4) Coverage Results" MODIFIED="1563362439331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04" />
     <SUITE FILE_PATH="coverage/PyPrograming$import.coverage" NAME="import Coverage Results" MODIFIED="1563534860741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch06" />
     <SUITE FILE_PATH="coverage/PyPrograming$7_dictionary.coverage" NAME="7-dictionary Coverage Results" MODIFIED="1563419346715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch05" />
@@ -54,7 +54,9 @@
     <SUITE FILE_PATH="coverage/PyPrograming$6_function_2_.coverage" NAME="6-function(2) Coverage Results" MODIFIED="1563360805835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04" />
     <SUITE FILE_PATH="coverage/PyPrograming$3_derive.coverage" NAME="3-derive Coverage Results" MODIFIED="1563766203777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch09" />
     <SUITE FILE_PATH="coverage/PyPrograming$importt.coverage" NAME="importt Coverage Results" MODIFIED="1563538531323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch06" />
+    <SUITE FILE_PATH="coverage/PyPrograming$3_someQuestion.coverage" NAME="3-someQuestion Coverage Results" MODIFIED="1564450931104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../NumpyPrograming/ch07" />
     <SUITE FILE_PATH="coverage/PyPrograming$4_Iterator.coverage" NAME="4-Iterator Coverage Results" MODIFIED="1563955722839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch09" />
+    <SUITE FILE_PATH="coverage/PyPrograming$1_matrix_1_.coverage" NAME="1-matrix(1) Coverage Results" MODIFIED="1564365612682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../NumpyPrograming/ch06" />
     <SUITE FILE_PATH="coverage/PyPrograming$10_function_5_.coverage" NAME="10-function(5) Coverage Results" MODIFIED="1563411158152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04" />
     <SUITE FILE_PATH="coverage/PyPrograming$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1563537758192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch06/Demoo/subDemo2" />
     <SUITE FILE_PATH="coverage/PyPrograming$5_generator.coverage" NAME="5-generator Coverage Results" MODIFIED="1564278867779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch09" />
@@ -63,19 +65,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../NumpyPrograming/ch05/1-copy&amp;view(1).py">
+        <entry file="file://$PROJECT_DIR$/../NumpyPrograming/ch07/3-someQuestion(1).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-462">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="-117">
+              <caret line="49" column="29" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../NumpyPrograming/ch05/2-copy&amp;view(2).py">
+        <entry file="file://$PROJECT_DIR$/../NumpyPrograming/ch07/4-someQuestion(2).py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
-              <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+              <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+              <folding>
+                <element signature="e#44#62#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../NumpyPrograming/ch05/2-copy&amp;view(2).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../NumpyPrograming/ch05/1-copy&amp;view(1).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="293">
+              <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -83,19 +106,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ch05/9-copy&amp;deepcopy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-301">
-              <caret line="30" column="52" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
+            <state relative-caret-position="293">
+              <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+              <folding>
+                <element signature="e#43#54#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch04/2-for.py">
+        <entry file="file://$PROJECT_DIR$/ch04/11-lambda.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+            <state relative-caret-position="154">
+              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../NumpyPrograming/ch03/6-append&amp;insert&amp;delete.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../NumpyPrograming/ch04/2-math(2).py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -113,6 +149,10 @@
       <find>cxk</find>
       <find>[:]</find>
       <find>deep</find>
+      <find>fromiter</find>
+      <find>unique</find>
+      <find>lambda</find>
+      <find>deepcop</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -121,13 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ch04/break&amp;continue.py" />
-        <option value="$PROJECT_DIR$/ch04/while&amp;pass.py" />
-        <option value="$PROJECT_DIR$/ch04/function.py" />
-        <option value="$PROJECT_DIR$/ch04/6-function.py" />
-        <option value="$PROJECT_DIR$/ch04/6-function(2).py" />
-        <option value="$PROJECT_DIR$/ch04/8-function(3).py" />
-        <option value="$PROJECT_DIR$/ch04/9-function(9).py" />
         <option value="$PROJECT_DIR$/ch04/10-function(5).py" />
         <option value="$PROJECT_DIR$/ch04/11-Lambda.py" />
         <option value="$PROJECT_DIR$/ch04/11-lambda.py" />
@@ -171,13 +204,20 @@
         <option value="$PROJECT_DIR$/ch04/2-for.py" />
         <option value="$PROJECT_DIR$/../NumpyPrograming/ch05/1-copy&amp;view(1).py" />
         <option value="$PROJECT_DIR$/../NumpyPrograming/ch05/2-copy&amp;view(2).py" />
+        <option value="$PROJECT_DIR$/../NumpyPrograming/ch06/1-matrix(1).py" />
+        <option value="$PROJECT_DIR$/../NumpyPrograming/ch06/2-matrix(2).py" />
+        <option value="$PROJECT_DIR$/../NumpyPrograming/ch07/1-I/O.py" />
+        <option value="$PROJECT_DIR$/../NumpyPrograming/ch07/2-matplotlib.py" />
+        <option value="$PROJECT_DIR$/../NumpyPrograming/ch07/1-Inout&amp;Output.py" />
+        <option value="$PROJECT_DIR$/../NumpyPrograming/ch07/3-someQuestion.py" />
         <option value="$PROJECT_DIR$/ch05/9-copy&amp;deepcopy.py" />
+        <option value="$PROJECT_DIR$/../NumpyPrograming/ch07/4-someQuestion(2).py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="81" />
-    <option name="y" value="22" />
+    <option name="x" value="80" />
+    <option name="y" value="21" />
     <option name="width" value="1750" />
     <option name="height" value="1035" />
   </component>
@@ -189,16 +229,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="PyPrograming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PyPrograming" type="462c0819:PsiDirectoryNode" />
+              <item name="NumpyPrograming" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PyPrograming" type="b2602c69:ProjectViewProjectNode" />
               <item name="NumpyPrograming" type="462c0819:PsiDirectoryNode" />
+              <item name="ch03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PyPrograming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NumpyPrograming" type="462c0819:PsiDirectoryNode" />
+              <item name="ch04" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PyPrograming" type="b2602c69:ProjectViewProjectNode" />
@@ -207,13 +254,18 @@
             </path>
             <path>
               <item name="PyPrograming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="NumpyPrograming" type="462c0819:PsiDirectoryNode" />
+              <item name="ch06" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PyPrograming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NumpyPrograming" type="462c0819:PsiDirectoryNode" />
+              <item name="ch07" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -236,8 +288,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2-copy&amp;view(2)">
-    <configuration name="1-copy&amp;view(1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.4-someQuestion(2)">
+    <configuration name="1-Inout&amp;Output" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="NumpyPrograming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -245,12 +297,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../NumpyPrograming/ch05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../NumpyPrograming/ch07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../NumpyPrograming/ch05/1-copy&amp;view(1).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../NumpyPrograming/ch07/1-Inout&amp;Output.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -259,7 +311,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2-copy&amp;view(2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2-matplotlib" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="NumpyPrograming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -267,12 +319,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../NumpyPrograming/ch05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../NumpyPrograming/ch07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../NumpyPrograming/ch05/2-copy&amp;view(2).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../NumpyPrograming/ch07/2-matplotlib.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -281,20 +333,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2-for" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PyPrograming" />
+    <configuration name="2-matrix(2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NumpyPrograming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../NumpyPrograming/ch06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch04/2-for.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../NumpyPrograming/ch06/2-matrix(2).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -303,20 +355,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5-generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PyPrograming" />
+    <configuration name="3-someQuestion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NumpyPrograming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../NumpyPrograming/ch07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch09/5-generator.py" />
+      <option name="SCRIPT_NAME" value="D:\PyLearn\NumpyPrograming\ch07\3-someQuestion(1).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -325,20 +377,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9-copy&amp;deepcopy" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PyPrograming" />
+    <configuration name="4-someQuestion(2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NumpyPrograming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../NumpyPrograming/ch07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch05/9-copy&amp;deepcopy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../NumpyPrograming/ch07/4-someQuestion(2).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -349,11 +401,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2-copy&amp;view(2)" />
-        <item itemvalue="Python.1-copy&amp;view(1)" />
-        <item itemvalue="Python.9-copy&amp;deepcopy" />
-        <item itemvalue="Python.2-for" />
-        <item itemvalue="Python.5-generator" />
+        <item itemvalue="Python.4-someQuestion(2)" />
+        <item itemvalue="Python.3-someQuestion" />
+        <item itemvalue="Python.1-Inout&amp;Output" />
+        <item itemvalue="Python.2-matplotlib" />
+        <item itemvalue="Python.2-matrix(2)" />
       </list>
     </recent_temporary>
   </component>
@@ -375,18 +427,19 @@
       <workItem from="1563755831903" duration="11046000" />
       <workItem from="1563946758223" duration="4092000" />
       <workItem from="1564275950185" duration="4209000" />
-      <workItem from="1564362155642" duration="1409000" />
+      <workItem from="1564362155642" duration="6004000" />
+      <workItem from="1564447489900" duration="3898000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55502000" />
+    <option name="totallyTimeSpent" value="63995000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="-7" width="1488" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27832168" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2825175" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -405,16 +458,16 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32867134" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26713288" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27832168" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32931727" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32931727" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32931727" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3297587" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39892906" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -436,62 +489,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ch04/1-if.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch04/6-function(1).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch04/7-function(2).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch04/10-function(5).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch04/11-lambda.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch05/5-tuple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch04/4-break&amp;continue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch04/3-range.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ch04/5-while&amp;pass.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -716,23 +713,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../NumpyPrograming/ch03/6-append&amp;insert&amp;delete.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../NumpyPrograming/ch05/1-copy&amp;view(1).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-462">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch05/9-copy&amp;deepcopy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-301">
-          <caret line="30" column="52" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ch04/2-for.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -740,10 +720,116 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../NumpyPrograming/ch04/1-math(1).py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NumpyPrograming/ch04/3-math(3).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NumpyPrograming/ch07/1-I/O.py" />
+    <entry file="file://D:/ProgramData/envs/learnPy/Lib/site-packages/numpy/matlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="188" column="37" selection-start-line="188" selection-start-column="37" selection-end-line="188" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NumpyPrograming/ch06/2-matrix(2).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+          <folding>
+            <element signature="e#44#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NumpyPrograming/ch06/1-matrix(1).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+          <folding>
+            <element signature="e#44#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/715792753/numpy/core/_multiarray_umath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-91">
+          <caret line="195" column="4" selection-start-line="195" selection-start-column="4" selection-end-line="195" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NumpyPrograming/ch07/1-Inout&amp;Output.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NumpyPrograming/ch07/2-matplotlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NumpyPrograming/ch03/6-append&amp;insert&amp;delete.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NumpyPrograming/ch04/2-math(2).py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch04/11-lambda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NumpyPrograming/ch07/3-someQuestion(1).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-117">
+          <caret line="49" column="29" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch05/9-copy&amp;deepcopy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+          <folding>
+            <element signature="e#43#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../NumpyPrograming/ch05/2-copy&amp;view(2).py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NumpyPrograming/ch05/1-copy&amp;view(1).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NumpyPrograming/ch07/4-someQuestion(2).py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+          <folding>
+            <element signature="e#44#62#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
