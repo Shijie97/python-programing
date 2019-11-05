@@ -4,9 +4,12 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/ch06" isTestSource="false" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.7 (NumpyPrograming)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="NumpyPrograming" />
+    <orderEntry type="module" module-name="DeepLearningFromScratch" />
+    <orderEntry type="module" module-name="Deep-Learning-from-scratch" />
+    <orderEntry type="module" module-name="My-Deep-Learning-from-scratch" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

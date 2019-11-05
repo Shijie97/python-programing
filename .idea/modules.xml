@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Deep-Learning-from-scratch/.idea/Deep-Learning-from-scratch.iml" filepath="$PROJECT_DIR$/../Deep-Learning-from-scratch/.idea/Deep-Learning-from-scratch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../My-Deep-Learning-from-scratch/.idea/My-Deep-Learning-from-scratch.iml" filepath="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/.idea/My-Deep-Learning-from-scratch.iml" />
       <module fileurl="file://$PROJECT_DIR$/../NumpyPrograming/.idea/NumpyPrograming.iml" filepath="$PROJECT_DIR$/../NumpyPrograming/.idea/NumpyPrograming.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PyPrograming.iml" filepath="$PROJECT_DIR$/.idea/PyPrograming.iml" />
     </modules>
